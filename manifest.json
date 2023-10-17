@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "REACT EXTENSION",
+  "description": "Messages CHROME EXTENSION",
+  "version": "0.0.2",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open"
+  },
+  "permissions": ["scripting"]
+}
